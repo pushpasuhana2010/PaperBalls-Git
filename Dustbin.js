@@ -1,3 +1,4 @@
+// A class for creating the dustbin
 class Dustbin {
     constructor(x,y,width,height) {
       var options = {
